@@ -1,0 +1,5 @@
+Segment,Customers,AvgHistoricalSpend,AvgFutureSpend,AvgFrequency,AvgRecency
+At-Risk / Low-Value,1386,273.59,333.07,1.17,150.41
+High-Value / Loyal,495,6492.83,3510.11,11.43,18.81
+Recent / Potential,468,686.37,538.89,2.25,15.03
+Regular / Mid-Value,968,1368.66,600.43,3.18,83.49
